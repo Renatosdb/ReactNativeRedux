@@ -10,7 +10,7 @@
     "homepage": "ttps://renatosdb.github.io/ReactNativeRedux"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "gh-pages": "^2.0.1",
     "react": "16.6.3",
     "react-native": "0.58.4"
